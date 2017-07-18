@@ -13,7 +13,7 @@ public class EmailSender {
 
 		System.out.println("这里是fifixg");
 
-		System.out.println("这里是fifixg2ccccsss");
+		System.out.println("这里是fifixg2ccccsssxxxxx");
 
 		System.out.println("这里是fifixg3");
 	}
