@@ -11,10 +11,10 @@ public class EmailSender {
 
 		System.out.println("66666666666");
 
-		System.out.println("这里是fifixg");
+		System.out.println("脮芒脌茂脢脟fifixg");
 
-		System.out.println("这里是fifixg2ccccsssxxxxx");
+		System.out.println("脮芒脌茂脢脟fifixg2ccccsssxxxxx");
 
-		System.out.println("这里是fifixg3vvvvvvvvvvvvvvvv");
+		System.out.println("脮芒脌茂脢脟fifixg3vvvvvvvvvvvvvvvv555");
 	}
 }
