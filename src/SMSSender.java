@@ -5,6 +5,6 @@ public class SMSSender {
 
 		System.out.println("xxxxxxxxxxxx");
 
-		System.out.println("xxxxxxxxxxxx111");
+		System.out.println("ss");
 	}
 }
