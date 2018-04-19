@@ -3,9 +3,9 @@ public class EmailSender {
 
 	public static void main(String args[]){
 
-		System.out.println("yyyyyyyyyyyyxxx11145");
+		System.out.println("asdf");
 
-		System.out.println("2222222222233333");
+		System.out.println("sssss");
 
 		System.out.println("88888888888");
 
